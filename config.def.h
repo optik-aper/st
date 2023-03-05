@@ -5,8 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-
-static char *font = "envypn:style=Regular";
+static char *font = "lucy tewii:style=regular";
 static int borderpx = 6;
 
 /*
@@ -131,7 +130,7 @@ static const char *colorname[] = {
  * foreground, background, cursor
  */
 unsigned int defaultfg = 257;
-unsigned int defaultbg = 256; 
+unsigned int defaultbg = 256;
 static unsigned int defaultcs = 257;
 static unsigned int defaultrcs = 257;
 unsigned int bg = 256, bgUnfocused = 258;
