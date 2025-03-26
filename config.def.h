@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "lucy tewii:style=regular";
+static char *font = "envypn:style=Regular";
 static int borderpx = 6;
 
 /*
